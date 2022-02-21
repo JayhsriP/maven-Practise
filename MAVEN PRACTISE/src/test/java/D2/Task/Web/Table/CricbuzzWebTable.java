@@ -34,5 +34,6 @@ public class CricbuzzWebTable {
 			System.out.println(value);
 		}
 		System.out.println(sum);
+		System.out.println(sum);
 	}
 }
