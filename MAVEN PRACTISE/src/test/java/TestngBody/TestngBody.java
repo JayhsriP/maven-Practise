@@ -45,7 +45,7 @@ public class TestngBody {
 	@AfterMethod
 	public void Screenshot()
 	{
-		
+	System.out.println("Take a screen shot");	
 	}
 	
 	@AfterClass
