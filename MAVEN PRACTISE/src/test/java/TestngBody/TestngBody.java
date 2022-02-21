@@ -16,7 +16,7 @@ public class TestngBody {
 	@BeforeSuite
 	public void openBrowser()
 	{
-		
+		driver.get();
 	}
 	
 	@BeforeTest
